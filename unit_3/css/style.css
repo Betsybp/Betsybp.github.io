@@ -4,7 +4,7 @@
 body {
 	background-color: #F0E08F;
 	font-family: 'Josefin Slab', serif;
-	font-size: 16px;
+	font-size: 22px;
 	line-height: 1.5em;
 	margin: 2em;
 }
@@ -12,11 +12,11 @@ body {
 h2 {
 	color: #4C94F0;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 22px;
+	font-size: 36px;
 	font-weight: bold;
 	text-decoration: underline;
 }
 h3 {
 	font-style: italic;
-	font-size: 14px;
+	font-size: 18px;
 }
