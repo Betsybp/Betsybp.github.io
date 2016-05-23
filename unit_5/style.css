@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	background-color: #F0E08F;
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+h2 {
+	color: #4C94F0;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h3 {
+	font-style: italic;
+	font-size: 18px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+article {
+background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;		
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+section {
+background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+
+
+
+
+
+
+
